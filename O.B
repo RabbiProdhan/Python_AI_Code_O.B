@@ -1,3 +1,6 @@
+pip install openai pyttsx3
+
+
 import openai
 import pyttsx3
 
